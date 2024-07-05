@@ -2,7 +2,7 @@
 layout: default
 ---
 
-PremiLab-Math is a sub-group of PremiLab at Xi'an Jiaotong-Liverpool University, focusing on leveraging AI to solve mathematical problems, including Math Word Problems and Geometry Problems.
+PremiLab-Math is a sub-group of PremiLab at Xi'an Jiaotong-Liverpool University, focusing on leveraging AI to solve mathematical problems, including Math Word Problems, Geometry Problems and Table Math Word Problems.
 
 * * *
 
@@ -82,6 +82,8 @@ Jie Yao, Zihao Zhou, Qiufeng Wang.
         <tr>
             <td style="text-align: center; border: none;"><img src="assets/nmz.jpg" alt="Maizhen Ning" style="width: 100px"/><br><a href="https://github.com/ning-mz" target="_blank">Maizhen Ning</a></td>
             <td style="text-align: center; border: none;"><img src="assets/zzh.jpg" alt="Zihao Zhou" style="width: 100px"/><br><a href="https://zhouzihao501.github.io/" target="_blank">Zihao Zhou</a></td>
+            <td style="text-align: center; border: none;">Xiaoqiang Kang</a></td>
+            <td style="text-align: center; border: none;">Qi Lu</a></td>
         </tr>
     </table>
 </div>
