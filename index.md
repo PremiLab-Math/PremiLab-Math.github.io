@@ -82,8 +82,8 @@ Jie Yao, Zihao Zhou, Qiufeng Wang.
         <tr>
             <td style="text-align: center; border: none;"><img src="assets/nmz.jpg" alt="Maizhen Ning" style="width: 100px"/><br><a href="https://github.com/ning-mz" target="_blank">Maizhen Ning</a></td>
             <td style="text-align: center; border: none;"><img src="assets/zzh.jpg" alt="Zihao Zhou" style="width: 100px"/><br><a href="https://zhouzihao501.github.io/" target="_blank">Zihao Zhou</a></td>
-            <td style="text-align: center; border: none;">Xiaoqiang Kang</a></td>
-            <td style="text-align: center; border: none;">Qi Lu</a></td>
+            <td style="text-align: center; border: none;"><img src="assets/kxq.jpg" alt="Xiaoqiang Kang" style="width: 100px"/><br><a href="https://github.com/jason8kang" target="_blank">Xiaoqiang Kang</a></td>
+            <td style="text-align: center; border: none;">Qi Lu</td>
         </tr>
     </table>
 </div>
