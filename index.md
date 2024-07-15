@@ -10,6 +10,18 @@ PremiLab-Math is a sub-group of PremiLab at Xi'an Jiaotong-Liverpool University,
 <table style="border-collapse: collapse;">
 <tr>
 <td style="width: 30%">
+<img src="assets/mathcheck-overview.jpg" alt="mathcheck" style="width: 100%" /> 
+</td>
+<td style="width: 70%">
+<strong><a href="https://arxiv.org/pdf/2407.08733" target="_blank">Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist</a></strong> - <em>Preprint</em><br><br>
+Zihao Zhou*, Shudong Liu*, Maizhen Ning, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang.
+</td>
+</tr>
+</table>
+
+<table style="border-collapse: collapse;">
+<tr>
+<td style="width: 30%">
 <img src="assets/mathattack-overview.jpg" alt="mathattack" style="width: 100%" /> 
 </td>
 <td style="width: 70%">
@@ -22,7 +34,7 @@ Zihao Zhou, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xia
 <table style="border-collapse: collapse;">
 <tr>
 <td style="width: 30%">
-<img src="assets/scagps-overview.png" alt="mathattack" style="width: 100%" /> 
+<img src="assets/scagps-overview.png" alt="sca-gps" style="width: 100%" /> 
 </td>
 <td style="width: 70%">
 <strong><a href="https://dl.acm.org/doi/10.1145/3581783.3612570" target="_blank">A Symbolic Characters Aware Model for Solving Geometry Problems</a></strong> - <em>ACM MM 2023</em><br><br>
@@ -34,11 +46,11 @@ Maizhen Ning, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang.
 <table style="border-collapse: collapse;">
 <tr>
 <td style="width: 30%">
-<img src="assets/dqgf-overview.png" alt="mathattack" style="width: 100%" /> 
+<img src="assets/dqgf-overview.png" alt="dqgf" style="width: 100%" /> 
 </td>
 <td style="width: 70%">
 <strong><a href="https://aclanthology.org/2023.findings-acl.705/" target="_blank">Learning by Analogy: Diverse Questions Generation in Math Word Problem</a></strong> - <em>ACL Findings 2023</em><br><br>
-Zihao Zhou, Maizhen Ning, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang.
+Zihao Zhou*, Maizhen Ning*, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang.
 </td>
 </tr>
 </table>
@@ -48,7 +60,7 @@ Zihao Zhou, Maizhen Ning, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu
 <table style="border-collapse: collapse;">
 <tr>
 <td style="width: 30%">
-<img src="assets/ensemble-mwp.png" alt="mathattack" style="width: 100%" /> 
+<img src="assets/ensemble-mwp.png" alt="nlpcc" style="width: 100%" /> 
 </td>
 <td style="width: 70%">
 <strong><a href="https://arxiv.org/pdf/2308.13844.pdf" target="_blank">Solving Math Word Problem with Problem Type Classification</a></strong> - <em>NLPCC 2023</em><br><br>
