@@ -77,7 +77,7 @@ Jie Yao, Zihao Zhou, Qiufeng Wang.
 
 * * *
 
-# Members:
+# Members
 ## Leader
 <div align="center">
     <table>
