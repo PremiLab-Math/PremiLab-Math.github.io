@@ -29,7 +29,7 @@ Xiaoqiang Kang*, Zimu Wang*, Xiaobo Jin, Wei Wang, Kaizhu Huang, Qiufeng Wang.
 <img src="assets/gns-overview.png" alt="mathcheck" style="width: 100%" /> 
 </td>
 <td style="width: 70%">
-<strong><a href="https://arxiv.org/pdf/2407.08733" target="_blank">GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs</a></strong> - <em>AAAI 2025</em><br><br>
+<strong>GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs</strong> - <em>AAAI 2025</em><br><br>
 Maizhen Ning*, Zihao Zhou*, Qiufeng Wang, Xiaowei Huang, Kaizhu Huang.
 </td>
 </tr>
