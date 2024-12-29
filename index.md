@@ -7,6 +7,37 @@ PremiLab-Math is a sub-group of PremiLab at Xi'an Jiaotong-Liverpool University,
 * * *
 
 # Works
+
+
+
+<table style="border-collapse: collapse;">
+<tr>
+<td style="width: 30%">
+<img src="assets/tell-overview.png" alt="mathcheck" style="width: 100%" /> 
+</td>
+<td style="width: 70%">
+<strong>Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation</strong> - <em>AAAI 2025</em><br><br>
+Xiaoqiang Kang*, Zimu Wang*, Xiaobo Jin, Wei Wang, Kaizhu Huang, Qiufeng Wang.
+</td>
+</tr>
+</table>
+
+
+<table style="border-collapse: collapse;">
+<tr>
+<td style="width: 30%">
+<img src="assets/gns-overview.png" alt="mathcheck" style="width: 100%" /> 
+</td>
+<td style="width: 70%">
+<strong><a href="https://arxiv.org/pdf/2407.08733" target="_blank">GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs</a></strong> - <em>AAAI 2025</em><br><br>
+Maizhen Ning*, Zihao Zhou*, Qiufeng Wang, Xiaowei Huang, Kaizhu Huang.
+</td>
+</tr>
+</table>
+
+
+
+
 <table style="border-collapse: collapse;">
 <tr>
 <td style="width: 30%">
