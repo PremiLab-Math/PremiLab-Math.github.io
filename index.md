@@ -8,6 +8,17 @@ PremiLab-Math is a sub-group of PremiLab at Xi'an Jiaotong-Liverpool University,
 
 # Works
 
+<table style="border-collapse: collapse;">
+<tr>
+<td style="width: 30%">
+<img src="assets/mathcheck-overview.jpg" alt="mathcheck" style="width: 100%" /> 
+</td>
+<td style="width: 70%">
+<strong><a href="https://arxiv.org/pdf/2407.08733" target="_blank">Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist</a></strong> - <em>ICLR 2025</em><br><br>
+Zihao Zhou*, Shudong Liu*, Maizhen Ning, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang.
+</td>
+</tr>
+</table>
 
 
 <table style="border-collapse: collapse;">
@@ -31,21 +42,6 @@ Xiaoqiang Kang*, Zimu Wang*, Xiaobo Jin, Wei Wang, Kaizhu Huang, Qiufeng Wang.
 <td style="width: 70%">
 <strong>GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs</strong> - <em>AAAI 2025</em><br><br>
 Maizhen Ning*, Zihao Zhou*, Qiufeng Wang, Xiaowei Huang, Kaizhu Huang.
-</td>
-</tr>
-</table>
-
-
-
-
-<table style="border-collapse: collapse;">
-<tr>
-<td style="width: 30%">
-<img src="assets/mathcheck-overview.jpg" alt="mathcheck" style="width: 100%" /> 
-</td>
-<td style="width: 70%">
-<strong><a href="https://arxiv.org/pdf/2407.08733" target="_blank">Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist</a></strong> - <em>Preprint</em><br><br>
-Zihao Zhou*, Shudong Liu*, Maizhen Ning, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang.
 </td>
 </tr>
 </table>
