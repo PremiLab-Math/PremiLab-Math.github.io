@@ -27,7 +27,7 @@ Zihao Zhou*, Shudong Liu*, Maizhen Ning, Wei Liu, Jindong Wang, Derek F. Wong, X
 <img src="assets/tell-overview.png" alt="mathcheck" style="width: 100%" /> 
 </td>
 <td style="width: 70%">
-<strong>Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation</strong> - <em>AAAI 2025</em><br><br>
+<strong><a href="https://arxiv.org/abs/2412.15594" target="_blank">Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation</a></strong> - <em>AAAI 2025</em><br><br>
 Xiaoqiang Kang*, Zimu Wang*, Xiaobo Jin, Wei Wang, Kaizhu Huang, Qiufeng Wang.
 </td>
 </tr>
@@ -40,7 +40,7 @@ Xiaoqiang Kang*, Zimu Wang*, Xiaobo Jin, Wei Wang, Kaizhu Huang, Qiufeng Wang.
 <img src="assets/gns-overview.png" alt="mathcheck" style="width: 100%" /> 
 </td>
 <td style="width: 70%">
-<strong>GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs</strong> - <em>AAAI 2025</em><br><br>
+<strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34679" target="_blank">GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs</a></strong> - <em>AAAI 2025</em><br><br>
 Maizhen Ning*, Zihao Zhou*, Qiufeng Wang, Xiaowei Huang, Kaizhu Huang.
 </td>
 </tr>
@@ -109,7 +109,7 @@ Jie Yao, Zihao Zhou, Qiufeng Wang.
 <div align="center">
     <table>
         <tr>
-            <td style="text-align: center; border: none;"><img src="assets/wqf.jpg" alt="Dr. Qiufeng Wang" style="width: 100px"/><br><a href="https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/qiufeng-wang" target="_blank">Dr. Qiufeng Wang</a></td>
+            <td style="text-align: center; border: none;"><img src="assets/wqf.jpg" alt="Dr. Qiufeng Wang" style="width: 100px"/><br><a href="https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/qiufeng-wang" target="_blank">Prof. Qiufeng Wang</a></td>
         </tr>
     </table>
 </div>
