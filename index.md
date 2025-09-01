@@ -11,6 +11,18 @@ PremiLab-Math is a sub-group of PremiLab at Xi'an Jiaotong-Liverpool University,
 <table style="border-collapse: collapse;">
 <tr>
 <td style="width: 30%">
+<img src="assets/table-grpo.png" alt="table-grpo" style="width: 100%" /> 
+</td>
+<td style="width: 70%">
+<strong>Can GRPO Boost Complex Multimodal Table Reasoning?</strong> - <em>EMNLP 2025</em><br><br>
+Xiaoqiang Kang, Shengen Wu, Zimu Wang, Yilin Liu, Xiaobo Jin, Kaizhu Huang, Wei Wang, Yutao Yue, Xiaowei Huang, Qiufeng Wang.
+</td>
+</tr>
+</table>
+
+<table style="border-collapse: collapse;">
+<tr>
+<td style="width: 30%">
 <img src="assets/mathcheck-overview.jpg" alt="mathcheck" style="width: 100%" /> 
 </td>
 <td style="width: 70%">
